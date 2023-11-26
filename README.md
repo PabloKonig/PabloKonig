@@ -1,5 +1,6 @@
 ## ¡Bienvenidos!
 
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
@@ -27,13 +28,6 @@ Mi nombre es Pablo König y actualmente trabajo como servicio técnico y venta d
     Diplomado en liderazgo ejecutivo. 🦸‍♀️
     <br>
    
-
-### Mis estadísticas
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablokonig&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablokonig&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
-</p>
 
 ### ✉️  &nbsp;Contacto 
 

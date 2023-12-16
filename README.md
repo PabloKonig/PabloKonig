@@ -38,6 +38,8 @@ Mi nombre es Pablo König, soy desarrollador full stack (Certified Tech Develope
 <samp>
     Certified Tech Developer (Digital House) 🚀
      <br>
+    Back End Specialist (Digital House) - En curso.
+     <br>
     Técnico Electrónico⚡
      <br>
     AWS Certified Cloud Practitioner 🚀

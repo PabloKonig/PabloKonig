@@ -42,6 +42,10 @@ Mi nombre es Pablo König, soy desarrollador full stack (Certified Tech Develope
      <br>
     Técnico Electrónico⚡
      <br>
+    BootCamp de Python y Django ⚡
+     <br>
+    Certificado Microsoft Azure DP100 ⚡
+     <br>
     AWS Certified Cloud Practitioner 🚀
     <br>
     Diplomado en IOT (Intenet of Thinks)⚡ 
